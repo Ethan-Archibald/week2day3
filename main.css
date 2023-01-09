@@ -1,0 +1,47 @@
+html body {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+body {
+    background-color: blueviolet;
+    background-image: url(sunset2.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top {
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+    height: 20px;
+}
+
+.top span {
+    color: #ffffff;
+    margin-right: 22px;;
+    margin-left: 22px;
+    font-size: 22px;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.mid {
+    color: #ffffff;
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 0px;
+}
+
+.mid h1 {
+    font-size: 75px;
+    padding-top: 100px;
+}
+
+.mid h3 {
+    font-size: 19px;
+    line-height: 20px;
+    padding-top: 15px;
+}
